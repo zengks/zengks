@@ -82,6 +82,21 @@ I enjoy badminton and conversations about software, design, and useful tools.
 
 ## 💬 Let’s connect
 
-[![Portfolio](assets/badges/portfolio.svg)](https://www.czsteven.com/)
-[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/chenzeng91/)
-[![Email](assets/badges/email.svg)](mailto:zengks@outlook.com)
+<a href="https://www.czsteven.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contacts/portfolio.svg">
+    <img src="assets/contacts/portfolio-light.svg" alt="Portfolio" width="106" height="125">
+  </picture>
+</a>
+<a href="https://www.linkedin.com/in/chenzeng91/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contacts/linkedin.svg">
+    <img src="assets/contacts/linkedin-light.svg" alt="LinkedIn" width="106" height="125">
+  </picture>
+</a>
+<a href="mailto:zengks@outlook.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contacts/email.svg">
+    <img src="assets/contacts/email-light.svg" alt="Email" width="106" height="125">
+  </picture>
+</a>
