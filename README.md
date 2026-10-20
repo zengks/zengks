@@ -23,23 +23,56 @@ My background in **electrical engineering** shapes how I approach systems and so
 
 **Interfaces**
 
-![TypeScript](assets/badges/typescript.svg)
-![React](assets/badges/react.svg)
-![Next.js](assets/badges/nextjs.svg)
-![MUI](assets/badges/mui.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/typescript.svg">
+  <img src="assets/skills/typescript-light.svg" alt="TypeScript" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/react.svg">
+  <img src="assets/skills/react-light.svg" alt="React" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/nextjs.svg">
+  <img src="assets/skills/nextjs-light.svg" alt="Next.js" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/mui.svg">
+  <img src="assets/skills/mui-light.svg" alt="MUI" width="106" height="125">
+</picture>
 
 **APIs & data**
 
-![Python](assets/badges/python.svg)
-![FastAPI](assets/badges/fastapi.svg)
-![PostgreSQL](assets/badges/postgresql.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/python.svg">
+  <img src="assets/skills/python-light.svg" alt="Python" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/fastapi.svg">
+  <img src="assets/skills/fastapi-light.svg" alt="FastAPI" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/postgresql.svg">
+  <img src="assets/skills/postgresql-light.svg" alt="PostgreSQL" width="106" height="125">
+</picture>
 
 **Quality & delivery**
 
-![Docker](assets/badges/docker.svg)
-![Storybook](assets/badges/storybook.svg)
-![Vitest](assets/badges/vitest.svg)
-![Git](assets/badges/git.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/docker.svg">
+  <img src="assets/skills/docker-light.svg" alt="Docker" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/storybook.svg">
+  <img src="assets/skills/storybook-light.svg" alt="Storybook" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/vitest.svg">
+  <img src="assets/skills/vitest-light.svg" alt="Vitest" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/git.svg">
+  <img src="assets/skills/git-light.svg" alt="Git" width="106" height="125">
+</picture>
 
 ## 🏸 Beyond code
 
