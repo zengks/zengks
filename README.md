@@ -8,6 +8,8 @@ I work with **React, TypeScript, Next.js, and Python/FastAPI**, with an interest
 
 AI tools are a regular part of how I build software, both at work and in personal projects. I’m interested in practical ways to use them to turn ideas into useful applications.
 
+**AI tools I use:** Claude · Claude Code · Gemini · ChatGPT · Codex
+
 ## ⚡ What I bring
 
 | Focus | How I work |
