@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="132" viewBox="0 0 112 132" role="img" aria-labelledby="title">
+  <title id="title">Claude</title>
+  <polygon points="56,8 91,28 91,68 56,88 21,68 21,28" fill="#142135" stroke="#E6A07D" stroke-width="1.4"/>
+  <polygon points="56,8 91,28 91,68 56,88 21,68 21,28" fill="#E6A07D" fill-opacity=".07"/>
+  <svg x="37" y="29" width="38" height="38" viewBox="0 0 32 32" color="#E6A07D"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M21.00 16.00L28.00 16.00"/><path d="M20.33 18.50L24.66 21.00"/><path d="M18.50 20.33L22.00 26.39"/><path d="M16.00 21.00L16.00 26.00"/><path d="M13.50 20.33L10.00 26.39"/><path d="M11.67 18.50L7.34 21.00"/><path d="M11.00 16.00L4.00 16.00"/><path d="M11.67 13.50L7.34 11.00"/><path d="M13.50 11.67L10.00 5.61"/><path d="M16.00 11.00L16.00 6.00"/><path d="M18.50 11.67L22.00 5.61"/><path d="M20.33 13.50L24.66 11.00"/></g></svg>
+  <text x="56" y="116" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="500" fill="#CBD5E1">Claude</text>
+</svg>

@@ -8,7 +8,28 @@ I work with **React, TypeScript, Next.js, and Python/FastAPI**, with an interest
 
 AI tools are a regular part of how I build software, both at work and in personal projects. I’m interested in practical ways to use them to turn ideas into useful applications.
 
-**AI tools I use:** Claude · Claude Code · Gemini · ChatGPT · Codex
+**AI tools I use**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-tools/claude.svg">
+  <img src="assets/ai-tools/claude-light.svg" alt="Claude" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-tools/claude-code.svg">
+  <img src="assets/ai-tools/claude-code-light.svg" alt="Claude Code" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-tools/gemini.svg">
+  <img src="assets/ai-tools/gemini-light.svg" alt="Gemini" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-tools/chatgpt.svg">
+  <img src="assets/ai-tools/chatgpt-light.svg" alt="ChatGPT" width="106" height="125">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-tools/codex.svg">
+  <img src="assets/ai-tools/codex-light.svg" alt="Codex" width="106" height="125">
+</picture>
 
 ## ⚡ What I bring
 
