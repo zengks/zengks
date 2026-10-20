@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="132" viewBox="0 0 112 132" role="img" aria-labelledby="title">
-  <title id="title">Vitest</title>
-  <polygon points="56,8 91,28 91,68 56,88 21,68 21,28" fill="#142135" stroke="#A3CC50" stroke-width="1.4"/>
-  <polygon points="56,8 91,28 91,68 56,88 21,68 21,28" fill="#A3CC50" fill-opacity=".07"/>
-  <svg x="38" y="30" width="36" height="36" viewBox="0 0 24 24" fill="#A3CC50"><ns0:title xmlns:ns0="http://www.w3.org/2000/svg" fill="#A3CC50">Vitest</ns0:title><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M11.545 23.3a.613.613 0 0 1-.895.197L.252 15.936A.61.61 0 0 1 0 15.439V6.325c0-.502.569-.792.975-.497l6.358 4.624c.594.433 1.432.25 1.793-.39L14.393.7a.62.62 0 0 1 .535-.314h8.455a.613.613 0 0 1 .537.916z" fill="#A3CC50" /></svg>
-  <text x="56" y="116" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="500" fill="#334155">Vitest</text>
-</svg>
